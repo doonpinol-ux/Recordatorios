@@ -554,5 +554,5 @@ class ReminderApp(tk.Tk):
 
 root = ReminderApp()
 root.mainloop()
-
+print("ALBER GAZO")
 # Hecho con amor, by: "Zapoide".
